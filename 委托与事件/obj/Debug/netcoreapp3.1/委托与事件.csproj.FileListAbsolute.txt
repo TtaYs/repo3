@@ -1,0 +1,13 @@
+C:\Users\86180\source\repos\ConsoleApp3\委托与事件\bin\Debug\netcoreapp3.1\委托与事件.exe
+C:\Users\86180\source\repos\ConsoleApp3\委托与事件\bin\Debug\netcoreapp3.1\委托与事件.deps.json
+C:\Users\86180\source\repos\ConsoleApp3\委托与事件\bin\Debug\netcoreapp3.1\委托与事件.runtimeconfig.json
+C:\Users\86180\source\repos\ConsoleApp3\委托与事件\bin\Debug\netcoreapp3.1\委托与事件.runtimeconfig.dev.json
+C:\Users\86180\source\repos\ConsoleApp3\委托与事件\bin\Debug\netcoreapp3.1\委托与事件.dll
+C:\Users\86180\source\repos\ConsoleApp3\委托与事件\bin\Debug\netcoreapp3.1\委托与事件.pdb
+C:\Users\86180\source\repos\ConsoleApp3\委托与事件\obj\Debug\netcoreapp3.1\委托与事件.csprojAssemblyReference.cache
+C:\Users\86180\source\repos\ConsoleApp3\委托与事件\obj\Debug\netcoreapp3.1\委托与事件.AssemblyInfoInputs.cache
+C:\Users\86180\source\repos\ConsoleApp3\委托与事件\obj\Debug\netcoreapp3.1\委托与事件.AssemblyInfo.cs
+C:\Users\86180\source\repos\ConsoleApp3\委托与事件\obj\Debug\netcoreapp3.1\委托与事件.csproj.CoreCompileInputs.cache
+C:\Users\86180\source\repos\ConsoleApp3\委托与事件\obj\Debug\netcoreapp3.1\委托与事件.dll
+C:\Users\86180\source\repos\ConsoleApp3\委托与事件\obj\Debug\netcoreapp3.1\委托与事件.pdb
+C:\Users\86180\source\repos\ConsoleApp3\委托与事件\obj\Debug\netcoreapp3.1\委托与事件.genruntimeconfig.cache
